@@ -1,0 +1,11 @@
+- Use both person counting and crowd density classification
+	- Person counting vs. crowd density classification
+		- Person counting
+			- Person counting is more accurate with less people/lower crowd density
+			- Person counting when crowd density is mid(higher end)-high
+				- Pinpoint accurate headcount with higher density is not needed. A good estimation is sufficient to inform users whereas a
+				label (low, mid, high) doesn't say as much.
+				- Users can more easily determine for themselves whether X amount of people is too many people.
+		- Crowd density
+			- A label alone does not say much
+			- What does low, mid, high density mean to the user?
