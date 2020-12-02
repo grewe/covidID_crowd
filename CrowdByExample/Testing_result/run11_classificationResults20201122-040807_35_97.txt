@@ -1,0 +1,98 @@
+File Name                 Predictions                                   Index  Class 
+High/DP15_Campus-Crowds_edit.jpg [ 1.9703757  -0.57951844 -1.3627607 ]         0      High  
+High/High_1.jpg           [ 1.3786672   0.72868526 -2.0804486 ]         0      High  
+High/High_10.jpg          [ 0.27287436 -0.12753475 -0.17948419]         0      High  
+High/High_11.jpg          [ 3.8085947 -2.3092937 -1.4708655]            0      High  
+High/High_12.jpeg         [ 1.062026   -1.3092119   0.27799547]         0      High  
+High/High_13.jpg          [ 4.3131685 -3.0907264 -1.2217278]            0      High  
+High/High_14.jpg          [ 3.9493947 -2.549498  -1.3595424]            0      High  
+High/High_15.jpg          [ 3.7233152 -1.3180956 -2.3803144]            0      High  
+High/High_16.jpg          [ 4.58273   -1.5458704 -3.0295875]            0      High  
+High/High_17.jpg          [ 0.54140353 -1.9388548   1.4162393 ]         2      Medium
+High/High_18.jpg          [ 4.1976724 -2.2643476 -1.8991559]            0      High  
+High/High_19.jpg          [-0.33037585 -0.35339916  0.7164016 ]         2      Medium
+High/High_2.jpg           [ 4.5492578 -3.4981933 -1.0560874]            0      High  
+High/High_20.jpg          [ 0.98781884 -1.3229631   0.2544973 ]         0      High  
+High/High_21.jpg          [ 3.8613305 -1.547624  -2.3160448]            0      High  
+High/High_22.jpg          [ 0.27689683 -0.41071403  0.12710953]         0      High  
+High/High_23.jpg          [ 2.0599504  -1.6647595  -0.41068423]         0      High  
+High/High_24.jpg          [ 1.5131601  -1.6259662   0.09545362]         0      High  
+High/High_25.jpg          [ 2.1853619 -1.489992  -0.7156249]            0      High  
+High/High_26.jpg          [ 2.076456  -1.403303  -0.6567188]            0      High  
+High/High_3.jpg           [ 3.6708102 -1.668207  -2.0011559]            0      High  
+High/High_4.jpg           [ 3.7834682 -1.1662942 -2.6211038]            0      High  
+High/High_5.jpeg          [ 0.70298827 -1.3814329   0.6897341 ]         0      High  
+High/High_6.jpeg          [ 3.837894  -2.6767144 -1.1674795]            0      High  
+High/High_7.jpeg          [ 4.903974  -1.6737868 -3.2312548]            0      High  
+High/High_8.png           [ 3.330802  -2.009788  -1.3225226]            0      High  
+High/High_9.jpg           [ 3.9590611 -1.42846   -2.5074077]            0      High  
+High/black-lives-matter-protest-2020.jpg [ 0.87336564 -2.5204763   1.6373425 ]         2      Medium
+High/google_dublin.0.jpg  [ 2.4664183  0.0152446 -2.403617 ]            0      High  
+High/images.jpeg          [ 1.8435789  -2.467679    0.64766765]         0      High  
+High/img.jpg              [ 2.1332865  -0.30705535 -1.7976947 ]         0      High  
+High/students-campus-university-of-pennsylvania.jpg [ 2.824552  -1.6313998 -1.1641792]            0      High  
+Low/Low_17.jpg            [ 0.46901894 -0.861426    0.37709284]         0      High  
+Low/Low_18.jpg            [-0.78170335  2.7989657  -1.9875293 ]         1      Low   
+Low/Low_19.jpg            [-0.4807183  2.6012735 -2.085574 ]            1      Low   
+Low/Low_2.jpg             [-2.2158706   2.4045494  -0.15338957]         1      Low   
+Low/Low_20.jpg            [-0.02969629  1.9469582  -1.9348233 ]         1      Low   
+Low/Low_21.jpg            [-1.4528987  3.3853064 -1.9502151]            1      Low   
+Low/Low_22.jpg            [-1.513444    1.841915   -0.31479877]         1      Low   
+Low/Low_23.jpg            [-0.63629663  1.9498546  -1.3371377 ]         1      Low   
+Low/Low_24.jpg            [-0.8443005  2.6117773 -1.7771226]            1      Low   
+Low/Low_25.jpg            [-0.27200317  2.083425   -1.7791547 ]         1      Low   
+Low/Low_26.jpg            [ 0.9086653 -0.9780067  0.0801779]            0      High  
+Low/Low_27.jpg            [-0.31162107  3.0461771  -2.7194085 ]         1      Low   
+Low/Low_28.jpg            [-1.90759     1.1558889   0.77021766]         1      Low   
+Low/Low_29.jpg            [-1.8887105   0.59456694  1.3138747 ]         2      Medium
+Low/Low_3.jpg             [-0.9498644  2.3088427 -1.3700367]            1      Low   
+Low/Low_30.jpg            [-0.69955516  2.9098427  -2.192431  ]         1      Low   
+Low/Low_31.jpg            [-1.3300755 -0.5694808  1.8898339]            2      Medium
+Low/Low_32.jpg            [-1.8371823   0.69630325  1.0986588 ]         2      Medium
+Low/Low_33.jpg            [-0.97441894 -0.09703004  1.0982738 ]         2      Medium
+Low/Low_34.jpg            [-0.4145076  1.0071495 -0.634557 ]            1      Low   
+Low/Low_35.jpg            [-1.5077286  -0.03684652  1.5698574 ]         2      Medium
+Low/Low_36.jpg            [-0.6472906 -0.9384769  1.6099174]            2      Medium
+Low/Low_37.jpg            [-2.465032   1.3434265  1.1351569]            1      Low   
+Low/Low_38.jpg            [-1.799175   3.0496967 -1.2488699]            1      Low   
+Low/Low_39.jpg            [-1.303772   -0.26935613  1.5968223 ]         2      Medium
+Low/Low_4.jpg             [-1.591346    2.3447652  -0.73211336]         1      Low   
+Low/Low_40.jpg            [-1.1326069   1.1284375   0.02389503]         1      Low   
+Low/Low_5.jpg             [-1.4227617  1.4413075  0.0042038]            1      Low   
+Low/Low_6.jpg             [-1.6982578  2.579666  -0.8188362]            1      Low   
+Low/Low_7.jpg             [-2.1232553   3.0385861  -0.91441226]         1      Low   
+Low/Low_8.jpg             [ 0.3626846  2.4831033 -2.8669312]            1      Low   
+Low/Low_9.jpg             [-1.8351023   1.6291863   0.25551867]         1      Low   
+Medium/8.jpg              [-1.0835433   1.476764   -0.39237994]         1      Low   
+Medium/9.jpg              [ 0.5817957  1.2774154 -1.8620899]            1      Low   
+Medium/Med1.jpg           [ 0.4993428 -2.3883224  1.921258 ]            2      Medium
+Medium/Med13.jpg          [ 0.11857998  1.4721243  -1.557262  ]         1      Low   
+Medium/Med14.jpg          [ 0.44826424  0.97626734 -1.3641036 ]         1      Low   
+Medium/Med15.jpeg         [ 0.79953337  2.8218455  -3.619737  ]         1      Low   
+Medium/Med2.png           [ 2.4008465 -1.2916511 -1.0883073]            0      High  
+Medium/Med4.jpg           [ 0.01528633 -1.0935825   1.1088934 ]         2      Medium
+Medium/Med5.jpeg          [ 0.795009   -0.7269956  -0.01502633]         0      High  
+Medium/Med6.jpg           [ 2.1856155  -2.102016   -0.06350791]         0      High  
+Medium/Medium_1.jpg       [-0.7727241  -0.78040373  1.5814075 ]         2      Medium
+Medium/Medium_10.jpg      [ 0.10507357  1.4164319  -1.4896919 ]         1      Low   
+Medium/Medium_11.jpg      [-0.65141237  0.17117143  0.48540604]         2      Medium
+Medium/Medium_12.jpg      [ 0.53407323  0.79447806 -1.2920578 ]         1      Low   
+Medium/Medium_13.jpg      [-0.7108073  2.343911  -1.6482444]            1      Low   
+Medium/Medium_14.jpeg     [-0.44547158  2.04336    -1.5696092 ]         1      Low   
+Medium/Medium_15.jpeg     [-0.89977866  0.20866239  0.7380297 ]         2      Medium
+Medium/Medium_16.jpg      [ 0.51088226 -0.5996734   0.05899894]         0      High  
+Medium/Medium_17.jpg      [-0.7727241  -0.78040373  1.5814075 ]         2      Medium
+Medium/Medium_18.jpg      [ 0.10971177 -0.67330277  0.5842936 ]         2      Medium
+Medium/Medium_19.jpg      [ 1.7897321 -0.7941774 -0.9448805]            0      High  
+Medium/Medium_2.jpg       [ 1.7897321 -0.7941774 -0.9448805]            0      High  
+Medium/Medium_20.jpg      [-1.9538244  3.1311188 -1.1275612]            1      Low   
+Medium/Medium_3.jpg       [-0.890434   -0.33012164  1.2543106 ]         2      Medium
+Medium/Medium_4.jpg       [ 0.17160368  0.8977704  -1.0505929 ]         1      Low   
+Medium/Medium_5.jpg       [-0.5035735  -0.29223216  0.79368114]         2      Medium
+Medium/Medium_6.jpg       [-1.8152739   1.6575414   0.22554469]         1      Low   
+Medium/Medium_7.jpg       [-0.64017844 -0.5570096   1.2134552 ]         2      Medium
+Medium/Medium_8.jpg       [ 0.16516721  0.07458949 -0.22875464]         0      High  
+Medium/Medium_9.jpg       [-0.07526737  0.36781538 -0.29749066]         1      Low   
+Medium/med10.jpeg         [ 0.4602672  1.108255  -1.5370691]            1      Low   
+Medium/med12.jpg          [ 0.8100668  0.9527838 -1.7471011]            1      Low   
+Medium/med3.jpeg          [ 1.578425   -0.01202297 -1.5661494 ]         0      High  
