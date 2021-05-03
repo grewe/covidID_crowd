@@ -1,4 +1,4 @@
-All training code and results related to CrowdByExample including:
+### All training code and results related to Person Counting Measurement(PCM) including:
 
 /Data - xml + images
 /Train  - scripts ,  /train - log files (tensorboard results) 
