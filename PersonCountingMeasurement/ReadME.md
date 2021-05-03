@@ -2,8 +2,11 @@
 ### All training code and results related to Person Counting Measurement(PCM) including:
 
 /Data - xml + images
+
 /Train  - scripts ,  /train - log files (tensorboard results) 
+
 /TFlite - contains script to convert + tflite file
+
 /SavedModel - saved model diretory
 
 
